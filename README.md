@@ -84,7 +84,7 @@ I am a **Computer Science Engineering** student specializing in **Artificial Int
 
 ### 🤝 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/pranav-adithya-injapuri](https://www.linkedin.com/in/your-linkedin-username-here) *(Update with your specific handle extension if different)*
+- **LinkedIn:** [linkedin.com/in/pranav-adithya-injapuri]([https://www.linkedin.com/in/your-linkedin-username-here](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BiSxVrb%2F0SJSK4R6qvcXtsg%3D%3D)) 
 - **GitHub:** [@pranav-adithya-injapuri](https://github.com/pranav-adithya-injapuri)
 
 💬 *“The best way to predict the future is to invent it.”* Let's build something awesome!
