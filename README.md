@@ -41,14 +41,17 @@ I am a **Computer Science Engineering** student specializing in **Artificial Int
 
 **1. Vector Search using RAG (Masterclass)**
 *Implementation of a Retrieval-Augmented Generation pipeline. Focuses on parsing, chunking documents, generating vector embeddings, storing them in a vector database, and executing semantic context retrieval for an LLM.*
+
 👉 [View Repository](https://github.com/pranav-adithya-injapuri/vector-search-using-rag)
 
 **2. Image Generation with Gradio UI (Masterclass)**
 *An interactive generative AI application that pairs text-to-image diffusion models with a seamless frontend built completely in Gradio for live prototyping.*
+
 👉 [View Repository](https://github.com/pranav-adithya-injapuri/image_generation_using_gradio)
 
 **3. Semantic Search using Text-Embeddings**
 *Leveraging large language model text embeddings to calculate cosine similarity and map true contextual intent behind queries, moving far beyond basic keyword matching.*
+
 👉 [View Repository](https://github.com/pranav-adithya-injapuri/sentiment-finding-using-rag)
 
 ---
@@ -57,15 +60,16 @@ I am a **Computer Science Engineering** student specializing in **Artificial Int
 
 **4. Cinematic Discovery**
 *A modern, interactive web application built with ReactJS, HTML, and CSS. It connects with media APIs to deliver a fast, dynamic interface for searching, filtering, and discovering films.*
+
 👉 [View Repository](https://github.com/pranav-adithya-injapuri/cinimatic-discovery)
 
 **5. AeroBank DBMS**
 *A structured database management system designed to track transactional integrity, secure schemas, and relational user accounts, demonstrating practical optimization of relational database mechanics.*
+
 👉 [View Repository](https://github.com/pranav-adithya-injapuri/aero-bank)
 
 **6. Titan Bank CLI**
 *A robust Command Line Interface banking application engineered in pure Python. Implements secure account states, object-oriented logic, and session flows straight from the terminal.*
-👉 *(Add your GitHub repository link here once created!)*
 
 ---
 
