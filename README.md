@@ -73,18 +73,9 @@ I am a **Computer Science Engineering** student specializing in **Artificial Int
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-adithya-injapuri&show_icons=true&theme=tokyonight" alt="Pranav's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-adithya-injapuri&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
-
----
-
 ### 🤝 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/pranav-adithya-injapuri]([https://www.linkedin.com/in/your-linkedin-username-here](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BiSxVrb%2F0SJSK4R6qvcXtsg%3D%3D)) 
+- **LinkedIn:** [linkedin.com/in/pranav-adithya-injapuri](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BiSxVrb%2F0SJSK4R6qvcXtsg%3D%3D) 
 - **GitHub:** [@pranav-adithya-injapuri](https://github.com/pranav-adithya-injapuri)
 
 💬 *“The best way to predict the future is to invent it.”* Let's build something awesome!
